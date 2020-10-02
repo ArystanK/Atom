@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "615978827726",
+    "firebase_url": "https://atom-a9644.firebaseio.com",
+    "project_id": "atom-a9644",
+    "storage_bucket": "atom-a9644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615978827726:android:f65285c6fce53cf4ebb59f",
+        "android_client_info": {
+          "package_name": "kz.maxwell.atom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615978827726-4ulj5dmjvn662in2jfk4gl62rbfdtbsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kz.maxwell.atom",
+            "certificate_hash": "269ecb3fab8133b55e86d1b650f85f9772b50e94"
+          }
+        },
+        {
+          "client_id": "615978827726-qb9p67gq4oep1gi34ik6upt3gcol3mkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDza75mTG6PZbhm_6kdCXOgza7f33dSvm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615978827726-qb9p67gq4oep1gi34ik6upt3gcol3mkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Atom</string>
+    <string name="lets_improve_ecology_together">Улучшим экологию <b>\nВМЕСТЕ</b></string>
+    <string name="about_app">О приложении</string>
+    <string name="create">Создать!</string>
+    <string name="no_account">Нет аккаунта?</string>
+    <string name="log_in">Войти</string>
+    <string name="password">Пароль</string>
+    <string name="email">Email</string>
+    <string name="icon">icon</string>
+    <string name="last_name">Фамилия</string>
+    <string name="first_name">Имя</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="sing_up">Зарегистрироваться</string>
+    <string name="user_avatar">userAvatar</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Главная</string>
+    <string name="shop">Магазин</string>
+    <string name="map">Карта</string>
+    <string name="advices">Советы</string>
+    <string name="profile">Профиль</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
